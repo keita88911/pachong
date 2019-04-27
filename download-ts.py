@@ -1,7 +1,7 @@
 # !usr/bin/python
 # -*- coding: utf-8 -*-
 '''
-飘花网在线电影下载
+飘花网在线电影下载1
 进入网页查看最大TS包文件名，填入for.max
 完成后进入shell输入copy/b  E:\temps\*.ts  E:\temps\new.ts 合并文件
 http://www.piaohua.pro/
